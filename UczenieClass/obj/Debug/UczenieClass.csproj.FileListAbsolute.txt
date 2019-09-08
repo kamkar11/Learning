@@ -1,0 +1,7 @@
+C:\Users\XYZ\source\repos\UczenieClass\UczenieClass\bin\Debug\UczenieClass.exe.config
+C:\Users\XYZ\source\repos\UczenieClass\UczenieClass\bin\Debug\UczenieClass.exe
+C:\Users\XYZ\source\repos\UczenieClass\UczenieClass\bin\Debug\UczenieClass.pdb
+C:\Users\XYZ\source\repos\UczenieClass\UczenieClass\obj\Debug\UczenieClass.csprojAssemblyReference.cache
+C:\Users\XYZ\source\repos\UczenieClass\UczenieClass\obj\Debug\UczenieClass.csproj.CoreCompileInputs.cache
+C:\Users\XYZ\source\repos\UczenieClass\UczenieClass\obj\Debug\UczenieClass.exe
+C:\Users\XYZ\source\repos\UczenieClass\UczenieClass\obj\Debug\UczenieClass.pdb
